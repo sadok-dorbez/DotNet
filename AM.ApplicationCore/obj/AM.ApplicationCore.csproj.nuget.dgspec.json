@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Arij\\Desktop\\AirportManagement\\AM.ApplicationCore\\AM.ApplicationCore.csproj": {}
+    "C:\\Users\\sadok\\Downloads\\Compressed\\4 TWIN\\DotNet\\AirportManagement-master\\AM.ApplicationCore\\AM.ApplicationCore.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Arij\\Desktop\\AirportManagement\\AM.ApplicationCore\\AM.ApplicationCore.csproj": {
+    "C:\\Users\\sadok\\Downloads\\Compressed\\4 TWIN\\DotNet\\AirportManagement-master\\AM.ApplicationCore\\AM.ApplicationCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Arij\\Desktop\\AirportManagement\\AM.ApplicationCore\\AM.ApplicationCore.csproj",
+        "projectUniqueName": "C:\\Users\\sadok\\Downloads\\Compressed\\4 TWIN\\DotNet\\AirportManagement-master\\AM.ApplicationCore\\AM.ApplicationCore.csproj",
         "projectName": "AM.ApplicationCore",
-        "projectPath": "C:\\Users\\Arij\\Desktop\\AirportManagement\\AM.ApplicationCore\\AM.ApplicationCore.csproj",
-        "packagesPath": "C:\\Users\\Arij\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Arij\\Desktop\\AirportManagement\\AM.ApplicationCore\\obj\\",
+        "projectPath": "C:\\Users\\sadok\\Downloads\\Compressed\\4 TWIN\\DotNet\\AirportManagement-master\\AM.ApplicationCore\\AM.ApplicationCore.csproj",
+        "packagesPath": "C:\\Users\\sadok\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sadok\\Downloads\\Compressed\\4 TWIN\\DotNet\\AirportManagement-master\\AM.ApplicationCore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Arij\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\sadok\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -61,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }

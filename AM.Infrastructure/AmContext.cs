@@ -40,13 +40,7 @@ namespace AM.Infrastructure
         }
         protected override void ConfigureConventions(ModelConfigurationBuilder configurationBuilder)
         {
-        //    // Pre-convention model configuration goes here
-        //    configurationBuilder
-        //        .Properties<string>()
-        //        .HaveMaxLength(50);
-        //configurationBuilder
-        //    .Properties<decimal>()
-        //        .HavePrecision(8,3);
+       
             configurationBuilder
               .Properties<DateTime>()
                   .HaveColumnType("date");
